@@ -1,7 +1,3 @@
-/*Trystan Kaes
- * Dr. Salim Lakhani
- * CSCI 3453
- * September 11, 2019*/
 #include <fstream>
 #include <iostream>
 #include <sys/utsname.h>
