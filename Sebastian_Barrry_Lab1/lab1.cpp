@@ -1,3 +1,7 @@
+// Sebastian Barry
+// CSCI 3453
+// Lab 1
+// 2/13/2022
 #include <string>
 #include <iostream>
 #include <fstream>
