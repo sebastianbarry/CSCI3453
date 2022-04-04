@@ -14,7 +14,7 @@ CC = g++
 CXXFLAGS = -g -std=c++11
 
 ######Change to match all .cpp files.  Do not include .h files####
-OBJS = lab1.o
+OBJS = lab2.o process.o readyQueue.o scheduler.o
 
 ######Change from target to name of output file
 TARGET = app
